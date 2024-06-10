@@ -1,0 +1,98 @@
+/* Navbar */
+* {
+    margin: .2%;
+    padding: .2%;
+    box-sizing: content-box;
+  }
+
+  .
+
+  .hook {
+    display: flex;
+    justify-content: right;
+    background-color: rgb(24, 24, 121);
+  }
+
+
+  .home {
+    height: .2%;
+    width: 5%;
+}
+
+.portfolio {
+    height: .2%;
+    width: 5%;
+}
+
+  .fb {
+    height: .2%;
+    width: 5%;
+  }
+
+  .ig {
+    height: .2%;
+    width: 5%;
+  }
+  
+  .email {
+    height: .2%;
+    width: 5%;
+}
+
+.phone {
+    height: .2%;
+    width: 5%;
+}
+
+.shop {
+    height: .2%;
+    width: 5%;
+}
+
+
+
+
+
+
+
+  .main-text {
+    display: flex;
+    flex: 6;
+    background-color: rgb(39, 39, 245);
+    gap: 5px;
+  }
+
+  section {
+    flex: 1;
+    background-color: rgb(237, 228, 61);
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  
+  .footer {
+    flex: 1;
+    background-color: red;
+    padding-block: .2%;
+  }
+  
+  
+  /* BLOG */
+  
+/* Icons */
+
+/* CASES */
+
+/* TEAM IMAGES */
+
+/* CALLBACK FORM  */
+
+/* Post */
+
+/* FOOTER */
+
+/* MOBILE - anything under tablet or less*/
+
+
+
+
