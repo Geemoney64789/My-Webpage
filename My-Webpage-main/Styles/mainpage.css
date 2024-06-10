@@ -2,17 +2,7 @@
 * {
     margin: .2%;
     padding: .2%;
-    box-sizing: content-box;
   }
-
-  .
-
-  .hook {
-    display: flex;
-    justify-content: right;
-    background-color: rgb(24, 24, 121);
-  }
-
 
   .home {
     height: .2%;
@@ -49,31 +39,34 @@
     width: 5%;
 }
 
+.autos {
+  display: flex;
+  justify-content: flex-start;
+}
 
-
-
-
+.fonts {
+  -webkit-text-size-adjust: .5px;
+}
 
 
   .main-text {
     display: flex;
     flex: 6;
-    background-color: rgb(39, 39, 245);
+    background-color: rgb(255, 255, 255);
     gap: 5px;
   }
 
   section {
     flex: 1;
-    background-color: rgb(237, 228, 61);
+    background-color: rgb(157, 27, 250);
     display: flex;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
   }
   
   .footer {
     flex: 1;
     background-color: red;
-    padding-block: .2%;
   }
   
   
@@ -94,5 +87,11 @@
 /* MOBILE - anything under tablet or less*/
 
 
-
+body { 
+   background-image: url('/My-Webpage-main/Images/cars/bmw1.jpg');
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+   }
 
